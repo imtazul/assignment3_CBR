@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+body {
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+}
+header {
+	background-color: #264653;
+}
+#orange-btn {
+	background-color: #e76f51;
+}
+#best-bike,
+#client,
+.fa-star {
+	color: #e76f51;
+}
+#img-one,
+#img-three {
+	filter: grayscale(100%);
+}
+footer {
+	background-color: #0b0d17;
+}
+.text-color {
+	color: #23a6f0;
+}
